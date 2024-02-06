@@ -96,7 +96,7 @@ async def leave_a_chat(bot, message):
             InlineKeyboardButton('Support Group',url="https://t.me/Movies_Request_Group_Telug"),
             InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/developervro")
         ],[
-            InlineKeyboardButton('Use Me Here', url=f'https://t.me/Movies_Request_Group_Telug')
+            InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
