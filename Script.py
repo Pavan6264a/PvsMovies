@@ -26,12 +26,12 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
  ╭━━━━━━━━╮
     Premium Plans
-  • ₹10 - 1 day (Trial)
-  • ₹50 - 1 Month 
-  • ₹65 - 2 Months
+  • ₹10 - 1 week (Trial)
+  • ₹30 - 1 Month 
+  • ₹50 - 2 Months
   • ₹80 - 3 Months
-  • ₹100 - 6 Months
-  • ₹250 - 1 Year
+  • ₹140 - 6 Months
+  • ₹200 - 1 Year
 ╰━━━━━━━━╯
 
 Premium Features ♤ᵀ&ᶜ
@@ -48,11 +48,8 @@ Premium Features ♤ᵀ&ᶜ
 ⚠️Send SS After Payment⚠️
 
 ~ After sending a Screenshot please give us some time to add you in the premium version.
-
 
-Developer - <a href='https://t.me/Developervro'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
-
-
+Developer - <a href='https://t.me/Pvs_movie'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
