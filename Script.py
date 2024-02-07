@@ -587,7 +587,7 @@ Also your tutorial will be Added Your Group..."""
 നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
     URTU_INFO = """
- <a href='tg://settings'>My Friend</a> 
+ hii <a href='tg://settings'>My Friend</a> 
 
 
  اب آپ ٹیلی گرام پر بھی پیسے کما سکتے ہیں۔
