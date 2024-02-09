@@ -104,9 +104,9 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
-FQDN = str(getenv('FQDN', "bjtest-72fdb86201b7.herokuapp.com"))
+FQDN = str(getenv('FQDN', "23.99.104.249"))
 URL = "https://bjtest-72fdb86201b7.herokuapp.com".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://bjtest-72fdb86201b7.herokuapp.com/".format(FQDN, PORT)
+    "23.99.104.249".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
@@ -121,9 +121,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://bjtest-72fdb86201b7.herokuapp.com/".format(FQDN)
+    URL = "23.99.104.249".format(FQDN)
 else:
-    URL = "https://bjtest-72fdb86201b7.herokuapp.com/".format(FQDN)
+    URL = "23.99.104.249".format(FQDN)
 
 
 
